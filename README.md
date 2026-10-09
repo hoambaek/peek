@@ -14,7 +14,7 @@
   <p><a href="README.ko.md">한국어</a> · <a href="#install">Install</a> · <a href="#features">Features</a> · <a href="#shortcuts">Shortcuts</a> · <a href="#faq">FAQ</a></p>
 </div>
 
-<p align="center"><img src="docs/hero.png" alt="Peek floating over a document window" width="100%"></p>
+<p align="center"><img src="docs/hero-en.png" alt="Peek floating over a document window" width="100%"></p>
 
 Keep a show, a stream or a lecture in the corner while you work. Peek is a native Swift app (no Electron) that floats a small web player above every other window, with a toolbar that stays out of the way until you reach for it.
 
@@ -48,12 +48,12 @@ Peek lives in the menu bar (no Dock icon). Click the menu bar icon to switch ser
 
 <table>
   <tr>
-    <td><img src="docs/toolbar.png" alt="Toolbar"></td>
-    <td><img src="docs/service-menu.png" alt="Service menu with My Sites"></td>
+    <td><img src="docs/toolbar-en.png" alt="Toolbar"></td>
+    <td><img src="docs/service-menu-en.png" alt="Service menu with My Sites"></td>
   </tr>
   <tr>
-    <td><img src="docs/open-url.png" alt="Open URL with recent addresses"></td>
-    <td><img src="docs/add-site.png" alt="Add a site"></td>
+    <td><img src="docs/open-url-en.png" alt="Open URL with recent addresses"></td>
+    <td><img src="docs/add-site-en.png" alt="Add a site"></td>
   </tr>
 </table>
 

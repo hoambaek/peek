@@ -14,7 +14,7 @@
   <p><a href="README.md">English</a> · <a href="#설치">설치</a> · <a href="#기능">기능</a> · <a href="#단축키">단축키</a> · <a href="#자주-묻는-질문">자주 묻는 질문</a></p>
 </div>
 
-<p align="center"><img src="docs/hero.png" alt="문서 창 위에 떠 있는 Peek" width="100%"></p>
+<p align="center"><img src="docs/hero-ko.png" alt="문서 창 위에 떠 있는 Peek" width="100%"></p>
 
 일하면서 드라마·방송·강의를 화면 구석에 띄워 두세요. Peek은 Swift로 만든 맥 전용 앱(Electron 아님)입니다. 작은 웹 플레이어를 모든 창 위에 띄우고, 툴바는 필요할 때만 나타납니다.
 
@@ -48,12 +48,12 @@ Peek은 Dock 대신 메뉴막대에 있습니다. 메뉴막대 아이콘을 눌�
 
 <table>
   <tr>
-    <td><img src="docs/toolbar.png" alt="툴바"></td>
-    <td><img src="docs/service-menu.png" alt="서비스 메뉴와 내 사이트"></td>
+    <td><img src="docs/toolbar-ko.png" alt="툴바"></td>
+    <td><img src="docs/service-menu-ko.png" alt="서비스 메뉴와 내 사이트"></td>
   </tr>
   <tr>
-    <td><img src="docs/open-url.png" alt="주소 입력과 최근 주소"></td>
-    <td><img src="docs/add-site.png" alt="사이트 추가"></td>
+    <td><img src="docs/open-url-ko.png" alt="주소 입력과 최근 주소"></td>
+    <td><img src="docs/add-site-ko.png" alt="사이트 추가"></td>
   </tr>
 </table>
 
