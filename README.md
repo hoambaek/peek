@@ -18,6 +18,11 @@
 
 Keep a show, a stream or a lecture in the corner while you work. Peek is a native Swift app (no Electron) that floats a small web player above every other window, with a toolbar that stays out of the way until you reach for it.
 
+## See it in action
+
+<p align="center"><a href="docs/demo-en.mp4"><img src="docs/demo-en.gif" alt="Peek demo" width="100%"></a></p>
+<p align="center"><sub>Click the animation for the full-quality video (mp4).</sub></p>
+
 ## Install
 
 1. Download **[Peek.dmg](https://github.com/hoambaek/peek/releases/latest/download/Peek.dmg)** from the latest release.
@@ -97,6 +102,7 @@ No Xcode project and no dependencies; `swiftc` builds it directly. Notes on the 
 ## Credits
 
 The scene inside the hero image is from **Spring** (2019) by the Blender Foundation, shared on Wikimedia Commons under CC0.
+The demo video also uses footage from **Spring** (© Blender Foundation, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)).
 Peek is not affiliated with any of the streaming services it opens; their names belong to their owners.
 
 ## License

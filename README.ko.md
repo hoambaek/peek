@@ -18,6 +18,11 @@
 
 일하면서 드라마·방송·강의를 화면 구석에 띄워 두세요. Peek은 Swift로 만든 맥 전용 앱(Electron 아님)입니다. 작은 웹 플레이어를 모든 창 위에 띄우고, 툴바는 필요할 때만 나타납니다.
 
+## 작동 화면
+
+<p align="center"><a href="docs/demo-ko.mp4"><img src="docs/demo-ko.gif" alt="Peek 작동 영상" width="100%"></a></p>
+<p align="center"><sub>이미지를 누르면 고화질 영상(mp4)이 열립니다.</sub></p>
+
 ## 설치
 
 1. 최신 릴리스에서 **[Peek.dmg](https://github.com/hoambaek/peek/releases/latest/download/Peek.dmg)** 를 받습니다.
@@ -97,6 +102,7 @@ Xcode 프로젝트도, 외부 라이브러리도 없습니다. `swiftc`로 바�
 ## 출처
 
 히어로 이미지 속 장면은 Blender Foundation의 **Spring**(2019) 한 장면입니다. Wikimedia Commons에 CC0로 공개되어 있습니다.
+작동 영상 속 장면도 **Spring**(© Blender Foundation, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))에서 가져왔습니다.
 Peek은 앱에서 여는 스트리밍 서비스들과 관계가 없습니다. 각 서비스 이름은 해당 회사의 것입니다.
 
 ## 라이선스
